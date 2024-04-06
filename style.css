@@ -1,0 +1,73 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+.wrapper{
+    margin: 0 auto;  /*ставит текст по середине*/
+    width: 1070px;   /*ширина контейнера*/
+    background-color: rgb(238, 27, 24);  /* задний фон*/
+    border-radius: 20px;
+}
+.wrapper h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    color: blanchedalmond;
+}
+.wrapper span{
+    text-align: center;
+    font-weight: bold;
+    color: azure;
+}
+.block1{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block2{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block3{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block1 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.block2 img{
+    width: 300px;
+    border-radius: 10px;
+    height: 320px;
+}
+.block3 img{
+    width: 300px;
+    border-radius: 10px;
+    height: 320px;
+}
+h4{
+    color: red;
+    text-align: center;
+    margin-top: 5px;
+}
+p{
+    text-align: center;
+    margin-top: -20px;
+}
+h3{
+    text-align: center;
+    margin-top: -20px;
+}
